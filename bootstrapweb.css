@@ -1,0 +1,44 @@
+.container{
+    border: 2px solid black;
+}
+.row{
+    border: 2px solid black;
+ 
+}
+.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-7,.col-8,.col-12,.col-10{
+    
+    border: 2px solid black;
+
+}
+.grey{
+    background-color: grey;
+}
+.skyblue{
+    background-color: skyblue;
+
+}
+.lightgreen{
+    background-color: greenyellow;
+
+}
+.black{
+background-color: brown;
+}
+.side li{
+    list-style: none;
+}
+.side li a{
+    text-decoration: none;
+    font-size: 18px;
+
+}
+.menu{
+    margin-bottom: 0px;
+}
+.menu li{
+    display: inline-block;
+    margin: 0px 0px 0px 5px;
+}
+.menu li a{
+    text-decoration: none;
+}
